@@ -31,7 +31,7 @@ gcc busca.o principal.o -o exe
 A entrada é lida do terminal.  
 Exemplo:
 ```bash
-./exe < input.in > output.out
+./exe < 1.in > 1.out
 ```
 
 Onde:
